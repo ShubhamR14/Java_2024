@@ -1,2 +1,0 @@
-module Z_TestSubject {
-}
